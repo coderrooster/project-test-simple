@@ -1,4 +1,7 @@
 #01/06/2020
 -ini pertama
 -ini kedua ya test
--ini test ke empat
+-update untuk data ke 4
+
+#01/06/2020 PART 2
+- satu data part 2
