@@ -1,3 +1,6 @@
 FITUR CHAT
 -create ui chat
  *tambah btn send all
+-add ui history
+ *add avatar
+ *add time chat
