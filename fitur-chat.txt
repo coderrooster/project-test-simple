@@ -3,4 +3,8 @@ FITUR CHAT
  *tambah btn send all
 -add ui history
  *add avatar
+ *ui sending / pending
+ *ui beauty list
  *add time chat
+-add fitur block user
+ *ui block & restore user
