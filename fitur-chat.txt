@@ -4,3 +4,5 @@ FITUR CHAT
 -add list history
  *ui sending / pending
  *ui beauty list
+-add fitur block user
+ *ui block & restore user
