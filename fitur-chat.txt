@@ -1,3 +1,6 @@
 FITUR CHAT
 -create ui chat
  *tambah btn send all
+-add list history
+ *ui sending / pending
+ *ui beauty list
