@@ -1,2 +1,2 @@
-# web-simple
+# project-simple
 foo bar test readme
